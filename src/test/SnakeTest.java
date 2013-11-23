@@ -1,6 +1,7 @@
-package main;
+package test;
 
 import static org.junit.Assert.*;
+import main.Block;
 import main.Snake;
 
 import org.junit.Test;
